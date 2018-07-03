@@ -80,10 +80,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ri_vetorial',
-        'USER': 'ri_vetorial',
-        'PASSWORD': '14411441',
+        'USER': 'root',
+        'PASSWORD': 'wakeup',
         'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'PORT': '1995',
     }
 }
 
